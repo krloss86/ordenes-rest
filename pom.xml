@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>ar.com.educacionit</groupId>
 	<artifactId>ordenes-rest</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0-RC1</version>
 	<name>ordenes-rest</name>
 	<description>App rest</description>
 	<properties>
